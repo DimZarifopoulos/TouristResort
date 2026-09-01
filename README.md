@@ -8,7 +8,7 @@ A Console Application developed for the MSc in Informatics, designed to manage t
 ## Features
 The application provides an interactive menu that allows users to explore and plan their trips.
 
-* [cite_start]**User Registration:** Allows users to input their personal details (full name, phone, email) to initiate a booking.
+* **User Registration:** Allows users to input their personal details (full name, phone, email) to initiate a booking.
 * [cite_start]**Route Planning:** Calculates the estimated travel cost and duration from Athens to Thessaloniki or Patra.
 * [cite_start]**Points of Interest (POI):** Displays landmarks, museums, and monuments, including ratings, entry fees, and user comments.
 * [cite_start]**Dining Options:** Recommends top-rated restaurants in each city, providing average meal costs.
@@ -27,4 +27,4 @@ The application provides an interactive menu that allows users to explore and pl
 4. Follow the on-screen prompts to register your info and select your preferred destination.
 
 ---
-*Developed as an individual project for the MSc in Informatics.*
+*Developed as an individual project for the MSc in Informatics for the 2025 academic year. .*
